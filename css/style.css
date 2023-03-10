@@ -201,6 +201,9 @@ span{
     margin: 2rem 0 3rem;
 
 }
+.about-content .about-content-info  {
+    font-size: 1.6rem;
+}
 
 .service h2{
    margin-bottom: 5rem;
